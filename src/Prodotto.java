@@ -1,4 +1,4 @@
-
+// De Simone Matteo
 public class Prodotto{
 	private String nome;
 	private String codice;
