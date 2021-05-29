@@ -1,7 +1,7 @@
 /**
  * 
- * @author versione 2
- *
+ * @author versione 3
+ *  modificato da GitHub
  */
 public class Pasticceria {
 	private String nome;
