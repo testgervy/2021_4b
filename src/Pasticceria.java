@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author versione 2
+ *
+ */
 public class Pasticceria {
 	private String nome;
 	private String luogo;
